@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e8e437ba-caf2-1641-9c9f-762e6ff043bf
 resourcetype: Document
 title: paper2_demo_dne.pdf
 uid: a0b839dc-1af0-5dcc-454d-7e914d55c6ff

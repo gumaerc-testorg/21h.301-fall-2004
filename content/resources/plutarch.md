@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e8e437ba-caf2-1641-9c9f-762e6ff043bf
 resourcetype: Document
 title: plutarch.pdf
 uid: 851f8751-be95-4979-2488-ecd68c091de1

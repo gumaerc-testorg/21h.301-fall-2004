@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e8e437ba-caf2-1641-9c9f-762e6ff043bf
 resourcetype: Document
 title: delphi_paper.pdf
 uid: ced4bf9d-5141-3be2-2299-8dffa58c58f6

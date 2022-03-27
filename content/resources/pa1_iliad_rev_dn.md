@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e8e437ba-caf2-1641-9c9f-762e6ff043bf
 resourcetype: Document
 title: pa1_iliad_rev_dn.pdf
 uid: 1447f97a-e9d1-c36f-b2b2-6ad4260bb734
