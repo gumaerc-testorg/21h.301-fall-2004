@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -16,19 +17,19 @@ Syllabus Archive
 
 The following syllabi come from a variety of different terms. They illustrate the evolution of this course over time, and are intended to provide alternate views into the instruction of this course.
 
-> Fall 2010, Steven Ostrow ([PDF]({{< baseurl >}}/resources/mit21h_301f04_syllf10))
+> Fall 2010, Steven Ostrow ({{% resource_link ab5bb368-762d-76f3-9ee8-ac95c9d2797a "PDF" %}})
 > 
-> Fall 2009, Steven Ostrow ([PDF]({{< baseurl >}}/resources/mit21h_301f04_syllf09))
+> Fall 2009, Steven Ostrow ({{% resource_link a9456769-3b19-26d1-6525-1a0263de6f61 "PDF" %}})
 > 
-> Fall 2008, Steven Ostrow ([PDF]({{< baseurl >}}/resources/mit21h_301f04_syllf08))
+> Fall 2008, Steven Ostrow ({{% resource_link c27d63ad-fb4a-8974-1542-468dcf4b7512 "PDF" %}})
 > 
-> Fall 2007, Steven Ostrow ([PDF]({{< baseurl >}}/resources/mit21h_301f04_syllf07))
+> Fall 2007, Steven Ostrow ({{% resource_link cb5f359f-daed-6548-299f-2752e607b26f "PDF" %}})
 > 
-> Fall 2006, Steven Ostrow ([PDF]({{< baseurl >}}/resources/mit21h_301f04_syllf06))
+> Fall 2006, Steven Ostrow ({{% resource_link 1f3685ed-5415-b0fc-412e-ba228013615a "PDF" %}})
 > 
-> Fall 2005, William Broadhead and Steven Ostrow ([PDF]({{< baseurl >}}/resources/mit21h_301f04_syllf05))
+> Fall 2005, William Broadhead and Steven Ostrow ({{% resource_link 1b7827fe-cb28-39d9-a097-b1986ca21ad5 "PDF" %}})
 > 
-> Fall 2004, William Broadhead and Steven Ostrow ([PDF]({{< baseurl >}}/resources/mit21h_301f04_syllf04))
+> Fall 2004, William Broadhead and Steven Ostrow ({{% resource_link ef5c62fe-8503-dc32-1100-a1f876994ead "PDF" %}})
 
 Description
 -----------

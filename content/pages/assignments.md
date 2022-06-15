@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -83,16 +84,16 @@ Due beginning of lecture 26.
 {{< anchor "student_work" >}}{{< /anchor >}}Student Work
 --------------------------------------------------------
 
-*   Comparing Interpretations (Courtesy of Erika Erickson. Used with permission.) ([PDF]({{< baseurl >}}/resources/21h_301_paper2))
-*   Socrates According to Plato and Aristophanes (Courtesy of Erika Erickson. Used with permission.) ([PDF]({{< baseurl >}}/resources/21h_301_paper3))
-*   Paper #2 (On Plutarch) (Courtesy of Stephen Fredette. Used with permission.) ([PDF]({{< baseurl >}}/resources/paper_2))
-*   The Center of the Greek World: The Myth and Reality of Delphi (Courtesy of Stephen Fredette. Used with permission.) ([PDF]({{< baseurl >}}/resources/delphi_paper))
-*   Parallel Lives – a Historical Lesson in Ethical Behavior (Courtesy of Yelena Gorlin. Used with permission.) ([PDF]({{< baseurl >}}/resources/plutarch))
-*   Hesiod’s Moral Teachings on Living (Courtesy of Rubaiyat Khan. Used with permission.) ([PDF]({{< baseurl >}}/resources/paper_1_for_ocw))
-*   Hesiod's Works and Days: Moral or Practical Teaching? (Courtesy of Panayiotis Mavrommatis. Used with permission.) ([PDF]({{< baseurl >}}/resources/hesiod))
-*   Founding Democracy: The Democratic Character of Solon's Reforms (Courtesy of Panayiotis Mavrommatis. Used with permission.) ([PDF]({{< baseurl >}}/resources/solonrevised))
-*   City-States and Alliances in Ancient Greece: Underlying Reasons of Their Existence and Their Consequences (Courtesy of Panayiotis Mavrommatis. Used with permission.) ([PDF]({{< baseurl >}}/resources/final))
-*   Is Really Achilles a Hero? (Courtesy of Efstathios (Stathis) Metsovitis. Used with permission.) ([PDF]({{< baseurl >}}/resources/paper1_rev))
-*   Honor and Glory in the Iliad: Life After Death (Courtesy of Cheryl Texin. Used with permission.) ([PDF]({{< baseurl >}}/resources/pa1_iliad_rev_dn))
-*   Democracy: Starting with Solon (Courtesy of Cheryl Texin. Used with permission.) ([PDF]({{< baseurl >}}/resources/paper2_demo_dne))
-*   The Peloponnesian War: The Struggle for Security (Courtesy of Cheryl Texin. Used with permission.) ([PDF]({{< baseurl >}}/resources/fin_pap_pwar_dne))
+*   Comparing Interpretations (Courtesy of Erika Erickson. Used with permission.) ({{% resource_link c9370574-b90e-4aba-8de3-8730b93fd7fc "PDF" %}})
+*   Socrates According to Plato and Aristophanes (Courtesy of Erika Erickson. Used with permission.) ({{% resource_link 4eb9ea79-5013-b34c-0255-4110eaa64484 "PDF" %}})
+*   Paper #2 (On Plutarch) (Courtesy of Stephen Fredette. Used with permission.) ({{% resource_link a4569c20-8792-dc44-124b-a702f9b0c5fa "PDF" %}})
+*   The Center of the Greek World: The Myth and Reality of Delphi (Courtesy of Stephen Fredette. Used with permission.) ({{% resource_link ced4bf9d-5141-3be2-2299-8dffa58c58f6 "PDF" %}})
+*   Parallel Lives – a Historical Lesson in Ethical Behavior (Courtesy of Yelena Gorlin. Used with permission.) ({{% resource_link 851f8751-be95-4979-2488-ecd68c091de1 "PDF" %}})
+*   Hesiod’s Moral Teachings on Living (Courtesy of Rubaiyat Khan. Used with permission.) ({{% resource_link 8d1502d2-bc3e-75b4-287c-44d275ad3bf4 "PDF" %}})
+*   Hesiod's Works and Days: Moral or Practical Teaching? (Courtesy of Panayiotis Mavrommatis. Used with permission.) ({{% resource_link 8e7fbf31-6c08-b9c7-311d-4bdfd35a9e3e "PDF" %}})
+*   Founding Democracy: The Democratic Character of Solon's Reforms (Courtesy of Panayiotis Mavrommatis. Used with permission.) ({{% resource_link da6430e8-520d-75ff-7352-f0821632c9a0 "PDF" %}})
+*   City-States and Alliances in Ancient Greece: Underlying Reasons of Their Existence and Their Consequences (Courtesy of Panayiotis Mavrommatis. Used with permission.) ({{% resource_link 789c2a21-baa6-15c3-fc17-2a246b8999cc "PDF" %}})
+*   Is Really Achilles a Hero? (Courtesy of Efstathios (Stathis) Metsovitis. Used with permission.) ({{% resource_link ea50b210-41a6-f62c-6a34-a97d7a8fbdee "PDF" %}})
+*   Honor and Glory in the Iliad: Life After Death (Courtesy of Cheryl Texin. Used with permission.) ({{% resource_link 1447f97a-e9d1-c36f-b2b2-6ad4260bb734 "PDF" %}})
+*   Democracy: Starting with Solon (Courtesy of Cheryl Texin. Used with permission.) ({{% resource_link a0b839dc-1af0-5dcc-454d-7e914d55c6ff "PDF" %}})
+*   The Peloponnesian War: The Struggle for Security (Courtesy of Cheryl Texin. Used with permission.) ({{% resource_link d93c0fe8-95a8-0042-a6f6-87eb75ad6518 "PDF" %}})
