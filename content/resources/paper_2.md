@@ -6,6 +6,7 @@ file: /courses/21h-301-the-ancient-world-greece-fall-2004/a4569c208792dc44124ba7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: paper_2.pdf
 uid: a4569c20-8792-dc44-124b-a702f9b0c5fa
 ---
 Example of student work on the second essay assignment. (Courtesy of Stephen Fredette. Used with permission.)
-

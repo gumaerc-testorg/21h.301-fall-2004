@@ -6,6 +6,7 @@ file: /courses/21h-301-the-ancient-world-greece-fall-2004/8e7fbf316c08b9c7311d4b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hesiod.pdf
 uid: 8e7fbf31-6c08-b9c7-311d-4bdfd35a9e3e
 ---
 Example of a student essay. (Courtesy of Panayiotis Mavrommatis. Used with permission.)
-

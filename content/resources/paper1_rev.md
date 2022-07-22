@@ -6,6 +6,7 @@ file: /courses/21h-301-the-ancient-world-greece-fall-2004/ea50b21041a6f62c6a34a9
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: paper1_rev.pdf
 uid: ea50b210-41a6-f62c-6a34-a97d7a8fbdee
 ---
 Example of a student essay. (Courtesy of Efstathios (Stathis) Metsovitis. Used with permission.)
-
