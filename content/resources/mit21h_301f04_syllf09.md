@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21h-301-the-ancient-world-greece-fall-2004/a94567693b1926d165251a0263de6f61_MIT21H_301f04_syllf09.pdf
+file_size: 54365
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
