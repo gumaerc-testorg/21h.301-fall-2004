@@ -3,6 +3,7 @@ content_type: resource
 description: Example of student work for the final essay assignment. (Courtesy of
   Cheryl Texin. Used with permission.)
 file: /courses/21h-301-the-ancient-world-greece-fall-2004/d93c0fe895a80042a6f687eb75ad6518_fin_pap_pwar_dne.pdf
+file_size: 113163
 file_type: application/pdf
 learning_resource_types:
 - Assignments

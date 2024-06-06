@@ -3,6 +3,7 @@ content_type: resource
 description: Example of student work on the second essay assignment. (Courtesy of
   Stephen Fredette. Used with permission.)
 file: /courses/21h-301-the-ancient-world-greece-fall-2004/a4569c208792dc44124ba702f9b0c5fa_paper_2.pdf
+file_size: 79718
 file_type: application/pdf
 learning_resource_types:
 - Assignments

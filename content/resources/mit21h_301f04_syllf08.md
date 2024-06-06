@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information about lectures and required textbooks.
 file: /courses/21h-301-the-ancient-world-greece-fall-2004/c27d63adfb4a89741542468dcf4b7512_MIT21H_301f04_syllf08.pdf
+file_size: 62328
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
