@@ -2,7 +2,7 @@
 content_type: resource
 description: Example of student work for the final essay assignment. (Courtesy of
   Stephen Fredette. Used with permission.)
-file: /courses/21h-301-the-ancient-world-greece-fall-2004/ced4bf9d51413be222998dffa58c58f6_delphi_paper.pdf
+file: /ol-ocw-studio-app/courses/21h-301-the-ancient-world-greece-fall-2004/ced4bf9d51413be222998dffa58c58f6_delphi_paper.pdf
 file_size: 100360
 file_type: application/pdf
 learning_resource_types:
