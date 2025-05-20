@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about lecture and required text.
-file: /ol-ocw-studio-app/courses/21h-301-the-ancient-world-greece-fall-2004/cb5f359fdaed6548299f2752e607b26f_MIT21H_301f04_syllf07.pdf
+file: /courses/21h-301-the-ancient-world-greece-fall-2004/cb5f359fdaed6548299f2752e607b26f_MIT21H_301f04_syllf07.pdf
 file_size: 70730
 file_type: application/pdf
 learning_resource_types: []

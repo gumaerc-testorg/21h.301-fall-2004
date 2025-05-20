@@ -2,7 +2,7 @@
 content_type: resource
 description: Example of student work on the final essay assignment. (Courtesy of Panayiotis
   Mavrommatis. Used with permission.)
-file: /ol-ocw-studio-app/courses/21h-301-the-ancient-world-greece-fall-2004/789c2a21baa615c3fc172a246b8999cc_final.pdf
+file: /courses/21h-301-the-ancient-world-greece-fall-2004/789c2a21baa615c3fc172a246b8999cc_final.pdf
 file_size: 45909
 file_type: application/pdf
 learning_resource_types:
