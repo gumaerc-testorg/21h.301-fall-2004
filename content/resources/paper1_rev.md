@@ -2,7 +2,7 @@
 content_type: resource
 description: Example of a student essay. (Courtesy of Efstathios (Stathis) Metsovitis.
   Used with permission.)
-file: /ol-ocw-studio-app/courses/21h-301-the-ancient-world-greece-fall-2004/ea50b21041a6f62c6a34a97d7a8fbdee_paper1_rev.pdf
+file: /courses/21h-301-the-ancient-world-greece-fall-2004/ea50b21041a6f62c6a34a97d7a8fbdee_paper1_rev.pdf
 file_size: 109313
 file_type: application/pdf
 learning_resource_types:
