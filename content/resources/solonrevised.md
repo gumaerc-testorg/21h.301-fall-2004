@@ -2,7 +2,7 @@
 content_type: resource
 description: Example of a student essay. (Courtesy of Panayiotis Mavrommatis. Used
   with permission.)
-file: /courses/21h-301-the-ancient-world-greece-fall-2004/da6430e8520d75ff7352f0821632c9a0_solonrevised.pdf
+file: /ol-ocw-studio-app/courses/21h-301-the-ancient-world-greece-fall-2004/da6430e8520d75ff7352f0821632c9a0_solonrevised.pdf
 file_size: 89270
 file_type: application/pdf
 learning_resource_types:
