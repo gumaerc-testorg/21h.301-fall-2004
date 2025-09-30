@@ -18,7 +18,7 @@ Hornblower, Simon. _The Greek World 479-323 BC_. 3rd ed. London and New York, NY
 Greek Masterpieces in Translation
 ---------------------------------
 
-English translations of these works are available at: [The Perseus Digital Library](http://www.perseus.tufts.edu/).
+English translations of these works are available at: {{% resource_link "928ea259-c303-486e-9836-d1885355811b" "The Perseus Digital Library" %}}.
 
 Aeschylus. "The Persians," "Seven Against Thebes," "The Suppliants," "Prometheus Bound." In _Aeschylus, 1 : The Oresteia_. Translated and Edited by David R. Slavitt and Palmer Bovie. Philadelphia, PA: University of Pennsylvania Press, 1997. ISBN: 9780812216271.
 
